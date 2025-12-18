@@ -1,0 +1,10 @@
+.items {
+  display: flex;
+  gap: 40px;
+  list-style: none;
+}
+
+.items li a {
+  color: #fff;
+  text-decoration: none;
+}
